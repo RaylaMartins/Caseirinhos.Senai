@@ -1,0 +1,9 @@
+
+body{
+    background-color: blue(225,225,225);
+}
+#cabecalho{
+    width: 100%;
+    background-color: rgb(243, 153, 153);
+    color: rgb(6, 4, 8);
+}
